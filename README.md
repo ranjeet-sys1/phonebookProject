@@ -1,2 +1,0 @@
-# phonebookProject
-curd operation
